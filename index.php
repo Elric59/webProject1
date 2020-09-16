@@ -4,6 +4,7 @@
 <head>
     <title> Questionnaire universités</title>
 </head>
+<?php require 'header.php'; ?>
 
 
 <body class="mainBackground">
@@ -22,7 +23,7 @@
     Mais avant de commencer nous vous proposons d'écouter le témoignage d'une ancienne étudiante a l'iut
 </div>
 
-<input  class="temoignageButton btn btn-outline-dark " type="button" value="témoignage" OnClick="location.href='./temoignage.html'"/>
+<input  class="temoignageButton btn btn-outline-dark " type="button" value="témoignage" OnClick="location.href='./temoignage.php'"/>
 
 </body>
 
