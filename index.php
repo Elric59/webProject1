@@ -22,7 +22,7 @@
     Mais avant de commencer nous vous proposons d'écouter le témoignage d'une ancienne étudiante a l'iut
 </div>
 
-    <input  class="temoignageButton btn btn-outline-dark " type="button" value="témoignage" OnClick="location.href='./temoignage.html'"/>
+<input  class="temoignageButton btn btn-outline-dark " type="button" value="témoignage" OnClick="location.href='./temoignage.html'"/>
 
 </body>
 
@@ -30,4 +30,5 @@
     <img class="pied" src="images/LOGO_IUT_Sepia.png" alt="">
 </footer>
 </html>
+
 
