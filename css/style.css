@@ -30,7 +30,7 @@
 .backTemoig{
     font-family:verdana,sans-serif;
     border:3px black double;
-    margin:auto
+
 
 }
 .fontEcritureReponse {
@@ -45,9 +45,10 @@
     text-decoration:underline
 }
 .titreTemoignage{
-    font-size:25px;
+    font-size:30px;
     font-family:verdana,sans-serif;
     text-decoration:underline;
+    margin-top: 2%;
 }
 
 
